@@ -3,6 +3,7 @@ package tw.neohsu.android.activities;
 import java.util.ArrayList;
 import java.util.List;
 
+import tw.neohsu.android.R;
 import tw.neohsu.android.adapters.CustomBaseAdapter;
 import tw.neohsu.android.model.RowItem;
 

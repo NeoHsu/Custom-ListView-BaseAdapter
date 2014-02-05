@@ -2,7 +2,7 @@ package tw.neohsu.android.adapters;
 
 import java.util.List;
 
-import tw.neohsu.android.activities.R;
+import tw.neohsu.android.R;
 import tw.neohsu.android.model.RowItem;
 
 import android.app.Activity;
